@@ -1,0 +1,21 @@
+What is a branch ?
+
+Branch is a kind of backup for original repo (master branch)
+by default the rep which we create is a master branch 
+
+git branch <branch name>
+
+git branch -a this will show all the branches in your repo
+
+  master
+* spalsh-backup --> this the branch we are on 
+  splash-100
+
+To go to the splash-backup branch 
+git checkout <branch name>
+ie git checkout splash-backup
+
+
+
+
+
